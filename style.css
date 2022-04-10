@@ -1,0 +1,21 @@
+body {
+    background-color: #ff6c6c;
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+}
+img {
+    width: 30%;
+    height: 75%;
+    align-content: center;
+}
+.weeeee {
+    font-family: 'Send Flowers', cursive;
+    color: antiquewhite;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+}
+
+.caption {
+    font-family: 'Send Flowers', cursive;
+    color: rgb(208, 243, 247);
+}
